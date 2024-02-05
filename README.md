@@ -14,5 +14,6 @@ https://docs.google.com/document/d/1aZuP64CiyC7oL4pJA5zlWo3prQ6LxQ4AiaGkHZ0p_-s/
 # Meeting Dates
 
 Asynchronous Meet Dates: Tuesday/Thursday/Sunday
-Synchronous Mett Date: Friday
+
+Synchronous Meet Date: Friday
 
