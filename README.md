@@ -7,7 +7,7 @@ GitHub Project Board:
 https://github.com/users/Jabsalot/projects/1/views/1
 
 Tech Documentation:
-https://docs.google.com/document/d/1aZuP64CiyC7oL4pJA5zlWo3prQ6LxQ4AiaGkHZ0p_-s/edit#heading=h.hntd9mi7a5f6
+https://drive.google.com/drive/folders/13-J-J6zTYuJxrcg119l734EN78yKzxkm 
 
 -----------------------------------------------------------------------------------------------------------
 
