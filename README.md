@@ -14,9 +14,10 @@ https://docs.google.com/document/d/1_IRsJBOQBLiJ2JXiJ2Rjub8PUGvPr4JiAdTFNt3PH6k/
 
 -----------------------------------------------------------------------------------------------------------
 
-# Meeting Dates
+Schedule: 
 
-Asynchronous Meet Dates: Tuesday/Thursday/Sunday
+Monday (4/15) Have team documentation finished
 
-Synchronous Meet Date: Friday
+Wednesday (4/17) @ 5 pm: Scrum meeting (meet in person at library)
 
+Friday (4/19): Asynchronous check in (just sending a small text explaining how our spring is going)
